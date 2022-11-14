@@ -1,10 +1,10 @@
 ﻿{
-    "database": {
-        "host": "localhost",
-        "port": 3306,
-        "user": "root",
-        "password": "",
-        "database": "node-mysql-registration-login-api"
-    },
-    "secret": "THIS IS USED TO SIGN AND VERIFY JWT TOKENS, REPLACE IT WITH YOUR OWN SECRET, IT CAN BE ANY STRING"
+  "database": {
+    "host": "localhost",
+    "port": 3306,
+    "user": "root",
+    "password": "102155545Ab.",
+    "database": "GoAir"
+  },
+  "secret": "TEWTUOqI84ehQxKvCyiLç3l4kh6542ontadfg234"
 }
